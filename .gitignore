@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+*.class
+*.log
+target
+.idea
+*.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+src/main/java/ws/**
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+*/ws.gen
